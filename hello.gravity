@@ -1,0 +1,6 @@
+func main() {
+  System.print("Hello World");
+}
+
+/* Gravity is a powerful, dynamically typed, lightweight, embeddable programming language written in C without any external dependencies (except for stdlib). 
+It is a class-based concurrent scripting language with a modern Swift like syntax.*/
