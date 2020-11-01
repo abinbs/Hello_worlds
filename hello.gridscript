@@ -1,0 +1,11 @@
+#HELLO WORLD.
+
+@width 3
+@height 1
+
+(1,1):START
+(3,1):PRINT 'Hello World' 
+
+!!GridScript is an esoteric programming language designed by user SuperJedi224. It is not yet implemented.
+
+!!The program is expressed as a list of points in a two-dimensional grid, with a command assigned to each point, such as "(3,1):PRINT 42". 
